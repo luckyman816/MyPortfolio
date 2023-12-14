@@ -1,0 +1,63 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "luckyman816",
+      "name": "Masahiro Yamada",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54479676?v=4",
+      "profile": "http://luckyman816.github.io",
+      "contributions": [
+        "code",
+        "ideas",
+        "test",
+        "maintenance",
+        "doc",
+        "design",
+        "review",
+        "content",
+        "a11y"
+      ]
+    },
+    {
+      "login": "code1511",
+      "name": "Anchal Pandey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73632448?v=4",
+      "profile": "https://www.linkedin.com/in/anchal-p-908643b6/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "emmalearnscode",
+      "name": "Emma Dawson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57045550?v=4",
+      "profile": "https://emmadawson.dev",
+      "contributions": [
+        "bug",
+        "ideas",
+        "a11y"
+      ]
+    },
+    {
+      "login": "NarpatAanjana",
+      "name": "Narpat Aanjana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86047565?v=4",
+      "profile": "https://github.com/NarpatAanjana",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "luckyman816.github.io",
+  "projectOwner": "luckyman816",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitType": "docs",
+  "commitConvention": "angular"
+}

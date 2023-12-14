@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://luckyman816.github.io/sitemap_index.xml
